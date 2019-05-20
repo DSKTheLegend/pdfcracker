@@ -7,8 +7,8 @@
 
 ## Usage - 
 		python "PDF Cracker.py" encoded.pdf decoded.pdf wordlist
-#### ####################################### #
-###               To Do List                 #
-###------------------------------------------#
-	> flags enable
-	> verbose
+### ---------------------------------------- #
+               To Do List                 
+### ---------------------------------------- #
+	o> flags enable
+	o> verbose
