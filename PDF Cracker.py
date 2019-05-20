@@ -30,7 +30,7 @@ def decrypt_pdf(input_path, output_path, password):
 if __name__ == '__main__':
   # example usage:
   if len(sys.argv) != 4 :
-    print ("Usage : "+sys.argv[0]+" encoded.pdf decoded.pdf password")
+    print ("Usage : "+sys.argv[0]+" encoded.pdf decoded.pdf wordlist_file")
     sys.exit(1)
   
   try:
