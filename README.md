@@ -1,14 +1,14 @@
 # Password Protected PDF Cracker
 
-## Decrypt password-protected PDF 
+	Decrypt password-protected PDF 
 
 ### Requirements:
-### pip install PyPDF2
+	pip install PyPDF2
 
 ## Usage - 
 		python "PDF Cracker.py" encoded.pdf decoded.pdf wordlist
-##############################################
+#### ####################################### #
 ###               To Do List                 #
 ###------------------------------------------#
-###   > flags enable
-###   > verbose
+	> flags enable
+	> verbose
